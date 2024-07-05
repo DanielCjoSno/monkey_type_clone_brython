@@ -23,6 +23,6 @@ This project is a clone of a typing game that helps users improve their typing s
 - Flask
 
 ### Clone the repository:
-
-- git clone https://github.com/YOUR_GITHUB_USERNAME/monkey_type_clone_brython.git
+```bash
+git clone https://github.com/YOUR_GITHUB_USERNAME/monkey_type_clone_brython.git
 
