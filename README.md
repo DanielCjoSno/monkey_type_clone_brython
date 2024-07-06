@@ -24,5 +24,5 @@ This project is a clone of a typing game that helps users improve their typing s
 
 ### Clone the repository:
 ```bash
-git clone https://github.com/YOUR_GITHUB_USERNAME/monkey_type_clone_brython.git
+git clone https://github.com/dcosodev/monkey-type-brython.git
 
