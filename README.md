@@ -1,6 +1,6 @@
 # 🐒 Monkey Type Clone - Test Your Typing Skills! ⌨️
 
-![Monkey Type Clone Screenshot](/images/screenshot.png)
+![Monkey Type Clone Screenshot](/images/screenshot.PNG)
 
 A fun and challenging typing game built with Flask and Brython to help you become a typing master! 🚀
 
